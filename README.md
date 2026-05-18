@@ -25,7 +25,7 @@ GC content (53.38%) is higher than the human genomic average (~41%), consistent 
 ## Limitations
 
 - Forward strand only; full analysis would cover all 6 reading frames
-- No Kozak sequence filtering — many short ORFs are likely spurious
+- Many short ORFs are likely spurious
 
 ## Usage
 
