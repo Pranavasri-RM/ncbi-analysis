@@ -9,7 +9,7 @@ Fetch real gene sequences from NCBI and extract biological information using Pyt
 - Identifies Open Reading Frames (ORFs) on the forward strand
 - Visualizes ORF length distributions
 
-## Results — TP53 (NM_000546)
+## Results - TP53 (NM_000546)
 
 | Metric | Value |
 |--------|-------|
