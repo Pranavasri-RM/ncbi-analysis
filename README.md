@@ -37,7 +37,7 @@ python src/sequence_analysis.py
 ## Project Structure
 
 ```
-bio-project-1-ncbi-analysis/
+ncbi-analysis/
 ├── src/
 │   └── sequence_analysis.py
 ├── results/
